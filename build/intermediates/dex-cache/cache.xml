@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Abbot Latest\TreasureHunt\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="E:\Abbot Latest\TreasureHunt\app\build\intermediates\pre-dexed\release\ksoap2-android-assembly-3.0.0-jar-with-dependencies_5229aed3c779d0703f2be99ba700e39c3ed6a26a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Abbot Latest\TreasureHunt\app\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="E:\Abbot Latest\TreasureHunt\app\build\intermediates\pre-dexed\release\acra-4.4.0_71292f4259fb240956926608f5ec3820ebf4092e.jar" />
+    </item>
+
+</items>

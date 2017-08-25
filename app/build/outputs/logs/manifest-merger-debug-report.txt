@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\0b2bf27a8381c1d5b7635f449e49357357667d57\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\651070eddeb971d15200116db8c3da90569205e3\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\abd0dfb79786d4dda703dc3371146345f90c82e0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\583f9ee5f3bbdf90f95b199336a9c019a305bfb0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\cb6d21093be1457ec35fe73f1fac95c624daa6ea\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\92569b68cddbff7b42f32435a7a7201db0a103e5\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\8c25b5aa1308ab84e40a8e541de5712ce562bd6f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\fda39d89a964bc08525e4eb82b43fe2c9a454ad7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\87d1a4dddc6c6fe3d4d70d582803db4cc3d2d124\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\1c13ad2a2ebe77e7dda8ccce9492af6d45ea291c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\c8d7e7dcc4825ff51f2c4fe98f89a9388e20e70e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\7d0b35b6413a222c026ba052c67e86da21ab5fa7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\44c2513a4822969bca26250e566be00fc4e863a2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\550b97613762fdcf0854d4b543c3a3ae84c417db\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\c2bbefb8716a375118f920c9c309cf178149d850\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\68be0ad76bb6ce2b6df222da046af40afa6b1598\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\ff17c22adee07d42aebe0c096bc9de4406297e00\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\f9370cd164e0ffe1e8d8b2aee062ff1f29d69df1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\1f37e67a8e61610c70449227fad2622ab01299b6\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\87d1a4dddc6c6fe3d4d70d582803db4cc3d2d124\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\651070eddeb971d15200116db8c3da90569205e3\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\651070eddeb971d15200116db8c3da90569205e3\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:15:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:19:22-77
+application
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:21:5-93:19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\0b2bf27a8381c1d5b7635f449e49357357667d57\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\651070eddeb971d15200116db8c3da90569205e3\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\abd0dfb79786d4dda703dc3371146345f90c82e0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\583f9ee5f3bbdf90f95b199336a9c019a305bfb0\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\cb6d21093be1457ec35fe73f1fac95c624daa6ea\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\92569b68cddbff7b42f32435a7a7201db0a103e5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\8c25b5aa1308ab84e40a8e541de5712ce562bd6f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\fda39d89a964bc08525e4eb82b43fe2c9a454ad7\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\87d1a4dddc6c6fe3d4d70d582803db4cc3d2d124\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\1c13ad2a2ebe77e7dda8ccce9492af6d45ea291c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\c8d7e7dcc4825ff51f2c4fe98f89a9388e20e70e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\7d0b35b6413a222c026ba052c67e86da21ab5fa7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\44c2513a4822969bca26250e566be00fc4e863a2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\550b97613762fdcf0854d4b543c3a3ae84c417db\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\c2bbefb8716a375118f920c9c309cf178149d850\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\ff17c22adee07d42aebe0c096bc9de4406297e00\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\f9370cd164e0ffe1e8d8b2aee062ff1f29d69df1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\yadavendras.CPMIN\.android\build-cache\1f37e67a8e61610c70449227fad2622ab01299b6\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:24:9-38
+	android:theme
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:22:9-38
+activity#com.cpm.treasurehunt.LoginActivity
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:screenOrientation
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:28:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.cpm.treasurehunt.MainMenuActivity
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:44:13-45
+activity#com.cpm.treasurehunt.MessageActivity
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:50:13-49
+	android:configChanges
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:48:13-44
+activity#com.cpm.upload.UploadDataActivity
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:59:13-61
+activity#com.cpm.geotagging.SharingActivity
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:62:9-65:52
+	android:screenOrientation
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:65:13-49
+	android:configChanges
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:63:13-62
+activity#com.cpm.autoupdate.AutoupdateActivity
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:66:9-69:52
+	android:screenOrientation
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:69:13-49
+	android:configChanges
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:68:13-74
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:67:13-65
+service#com.cpm.geotagging.GetService
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:71:9-65
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:71:18-62
+uses-library#com.google.android.maps
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:73:9-64
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:73:23-61
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:82:9-84:71
+	android:value
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:84:13-68
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:83:13-58
+activity#com.cpm.geotagging.GeotagActivity
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:86:9-88:61
+	android:label
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:88:13-58
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:87:13-61
+activity#com.cpm.geotagging.TagLocationActivityActivity
+ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:89:9-92:85
+	android:label
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:92:13-73
+	android:theme
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:91:13-69
+	android:name
+		ADDED from E:\Abbot Latest\TreasureHunt\app\src\main\AndroidManifest.xml:90:13-74
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\651070eddeb971d15200116db8c3da90569205e3\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\651070eddeb971d15200116db8c3da90569205e3\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\651070eddeb971d15200116db8c3da90569205e3\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\583f9ee5f3bbdf90f95b199336a9c019a305bfb0\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\583f9ee5f3bbdf90f95b199336a9c019a305bfb0\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\583f9ee5f3bbdf90f95b199336a9c019a305bfb0\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\583f9ee5f3bbdf90f95b199336a9c019a305bfb0\output\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\cb6d21093be1457ec35fe73f1fac95c624daa6ea\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\cb6d21093be1457ec35fe73f1fac95c624daa6ea\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\cb6d21093be1457ec35fe73f1fac95c624daa6ea\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\cb6d21093be1457ec35fe73f1fac95c624daa6ea\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\cb6d21093be1457ec35fe73f1fac95c624daa6ea\output\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\8c25b5aa1308ab84e40a8e541de5712ce562bd6f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\8c25b5aa1308ab84e40a8e541de5712ce562bd6f\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\yadavendras.CPMIN\.android\build-cache\8c25b5aa1308ab84e40a8e541de5712ce562bd6f\output\AndroidManifest.xml:20:20-65

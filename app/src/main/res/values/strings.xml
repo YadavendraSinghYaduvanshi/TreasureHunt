@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Treasure Hunt</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_storelist">Treasure Hunt</string>
+    <string name="toggle_turn_off">NO</string>
+    <string name="toggle_turn_on">YES</string>
+    <string name="version"></string>
+    <string name="title_activity_geotag">Map</string>
+    <string name="title_activity_tag_location_activity">TagLocationActivityActivity</string>
+
+    <string name="gps">GPS IS DISABLED...</string>
+    <string name="gpsebale">Click ok to enable GPS.</string>
+    <string name="takeimage"> Please Take Image</string>
+    <string name="notsuppoted">This device is not supported.</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

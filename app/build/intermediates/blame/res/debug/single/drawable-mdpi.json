@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\txt_box_b_ico.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\txt_box_b_ico.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\geotag_txtbox.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\geotag_txtbox.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_top.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\login_top.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\field_force_txt.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\field_force_txt.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tag_location_top.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\tag_location_top.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_txt.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\powered_txt.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\camera_tick.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\camera_tick.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\camera.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\camera.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\th_logo.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\th_logo.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\txt_box_bg.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\txt_box_bg.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\signin_ico.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\signin_ico.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\signin_hover_ico.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\signin_hover_ico.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\eema_logo.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\eema_logo.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_bg.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\login_bg.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\upload.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\upload.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tag_location.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\tag_location.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\save_btn.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\save_btn.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_txt.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\login_txt.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\exit.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\txtbox_bg.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\txtbox_bg.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\parinaam_logo_ico.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\parinaam_logo_ico.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ba.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\ba.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_menu_top.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\main_menu_top.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\Abbot Latest\\TreasureHunt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\clickto.png",
+        "source": "E:\\Abbot Latest\\TreasureHunt\\app\\src\\main\\res\\drawable-mdpi\\clickto.png"
+    }
+]

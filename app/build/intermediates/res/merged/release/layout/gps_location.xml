@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="bottom"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/geotag_title_header"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/tagmylocationcamera"
+        android:padding="2sp" >
+
+        <TextView
+            android:id="@+id/geotag_title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textColor="#e2e2e2"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/salesthru_intellogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:onClick="onButtonClick"
+            android:visibility="invisible" />
+    </RelativeLayout>
+- 
+
+
+    <RelativeLayout
+        android:id="@+id/geotag_geo_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/geotag_title_header"
+        android:padding="5sp" >
+- 
+
+
+        <RelativeLayout
+            android:id="@+id/geotag_googlemaparea"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@+id/geotag_camerabtn"
+            android:layout_marginTop="20sp"
+            android:layout_weight="1"
+            android:background="#3a190e"
+            android:orientation="vertical"
+            android:padding="8dp" >
+
+            <!-- <com.google.android.maps.MapView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/mapview"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:apiKey="0jFxuQSlNRPntRWQALkClyFYxoVxxZ-2Ha4YWIA"
+                android:clickable="true" /> -->
+
+            <ProgressBar
+                android:id="@+id/progressBar1"
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+- 
+
+
+        <RelativeLayout
+            android:id="@+id/geotag_camerabtn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:padding="3sp" >
+- 
+
+
+            <RelativeLayout
+                android:id="@+id/head1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:paddingLeft="5sp"
+                android:paddingRight="5sp" >
+
+                <EditText
+                    android:id="@+id/storename"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:hint="Location" />
+            </RelativeLayout>
+- 
+
+
+            <RelativeLayout
+                android:id="@+id/head2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/head1"
+                android:paddingLeft="5sp"
+                android:paddingRight="5sp"
+                android:visibility="gone" >
+
+                <EditText
+                    android:id="@+id/address"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:hint="Address" />
+            </RelativeLayout>
+- 
+
+
+            <RelativeLayout
+                android:id="@+id/head3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/head2"
+                android:paddingLeft="5sp"
+                android:paddingRight="5sp" >
+
+                <EditText
+                    android:id="@+id/city"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="City"
+                    android:visibility="gone" />
+            </RelativeLayout>
+- 
+
+            <RelativeLayout
+                android:id="@+id/head4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/head3"
+                android:paddingLeft="5sp"
+                android:paddingRight="5sp" >
+
+                <ImageView
+                    android:id="@+id/camera"
+                    android:layout_width="100dp"
+                    android:layout_height="80dp"
+                    android:background="@drawable/camera"
+                    android:src="@drawable/camera" />
+
+                <Button
+                    android:id="@+id/geotag_sumbitbtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/savebutton"
+                  
+                    android:textSize="14sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
